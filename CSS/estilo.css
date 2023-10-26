@@ -1,0 +1,27 @@
+html{font-size: 12px;
+     font-family: sans-serif;
+     background-color: lightgrey;
+     border: blue 4px double; }
+header{border-color:blue;
+        border-width: 4px 4px 4px;
+        border-style: double;}
+nav{font: message-box;
+    border: dimgray 4px inset;}
+h1{ font-size: 40px;
+    font-family: fantasy;
+    text-shadow:gray 4px 5px;
+    border: gray 4px inset;
+}
+#container{font-style: normal;
+           font-family: sans-serif;
+           border-color: gray;
+           border-width: 4px;
+           border-style: ridge;
+}
+p{ font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+   border-color: gray;
+   border-width: 3px;
+   border-style: ;
+}
+
